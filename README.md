@@ -7,4 +7,4 @@
 ## 贡献
 方法1. 投稿至finalwind42@gmail.com
 
-方法2. 如果您会使用Github,可以向https://github.com/USTC-thinker/ustc-thinker.github.io提交PR。
+方法2. 如果您会使用Github,可以向 [这里](https://github.com/USTC-thinker/articles) 提交PR，直接上传HTML文件即可。如果您不会编写HTML文件，可以采用typora来把markdown文件转换成HTML，或者采用方式1进行投稿。
